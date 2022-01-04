@@ -4,8 +4,6 @@ def hello(name):
 
 def racunanje(a, b): 
     rez = a + b
-    rez = a * b
-    rez = a / b
     
     return rez
 
